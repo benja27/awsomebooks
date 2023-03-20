@@ -1,4 +1,4 @@
-import {AddNewBook} from "./addNewBook";
+// import AddNewBook from "./addNewBook.js";
 
 let collectionOfBooks = [
   {
@@ -27,3 +27,4 @@ collectionOfBooks.forEach(element => {
   container.appendChild(div)
 
 });
+
