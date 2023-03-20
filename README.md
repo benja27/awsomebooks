@@ -36,7 +36,7 @@
 
 # 📖 [Mariano's Porfolio] <a name="about-project"></a>
 
-**[Mariano's Porfolio]** is a practice of responsive Design and JS DOM manipulation as capstone of the first module
+**[Awsome Books]** is a practice of responsive Design and JS DOM manipulation as capstone of the first module
 
 ## 🛠 Built With <a name="built-with"></a>
 
