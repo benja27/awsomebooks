@@ -1,5 +1,5 @@
 export default function removeBook(e, list) {
-  const newCollectionOfBooks = [];
+  // const newCollectionOfBooks = [];
 
   if (e.target.matches('.remove')) {
     const author = e.srcElement.previousElementSibling.textContent;
@@ -7,7 +7,8 @@ export default function removeBook(e, list) {
     const newCollectionOfBooks = list.filter((book) => book.author !== author);
 
     localStorage.setItem('collection', JSON.stringify(newCollectionOfBooks));
+    return newCollectionOfBooks;
   }
 
-  return newCollectionOfBooks;
+  return list;
 }

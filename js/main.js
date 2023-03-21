@@ -2,7 +2,7 @@ import AddNewBook from './addNewBook.js';
 import removeBook from './removeBook.js';
 import showBooks from './showbooks.js';
 
-let collectionOfBooks = JSON.parse(localStorage.getItem('collection')) || [];
+let collectionOfBooks = JSON.parse(localStorage.getItem('collection'));
 
 document.addEventListener('DOMContentLoaded', () => {
   showBooks(collectionOfBooks);
