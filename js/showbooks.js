@@ -2,8 +2,8 @@ export default function showBooks(books) {
   const container = document.querySelector('.bookListCont');
 
   container.innerHTML = '';
-  
-  books.forEach((element,i) => {    
+
+  books.forEach((element, i) => {
     const div = document.createElement('div');
     div.innerHTML = `
     <p class="fw-bold" >${element.title}</p>
