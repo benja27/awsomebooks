@@ -36,7 +36,7 @@
 
 # 📖 [Mariano's Porfolio] <a name="about-project"></a>
 
-**[Awsome Books]** is a practice of responsive Design and JS DOM manipulation as capstone of the first module
+**[Awsome Books]** is a practice about manipulating DOM and using objects to store data, also preserve data in local storage
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,7 +62,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Responsive Design]**
+- **[Local Storage to preserve data]**
 - **[DOM manipularion using JS]**
 - **[Live demo]**
 
@@ -73,8 +73,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://benja27.github.io/CapstoneModule1/)
-- [Loom walkthrought Video](https://www.loom.com/share/efa132271014453bbb17fb462cc95999)
+- [Live Demo Link](https://benja27.github.io/awsomebooks/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,6 +182,12 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/@rksne123)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/mariano-benjamin-mendez-garcia-a50856177)
 
+👤 **Fredo st Fleur**
+
+- GitHub: [@githubhandle](https://github.com/benja27)
+- Twitter: [@twitterhandle](https://twitter.com/@rksne123)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/mariano-benjamin-mendez-garcia-a50856177)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,10 +223,7 @@ If you like this project like and subscribe
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to Microverse and Cindy Shin the author of the original design.
-you can visit her webiste here:
-
-https://www.behance.net/adagio07
+I would like to thank to Microverse 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
