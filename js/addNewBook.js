@@ -21,6 +21,8 @@ export default function AddNewBook(e, books) {
   }
 
   document.querySelector('.alert').innerHTML = '';
+  document.querySelector('#title').value = '';
+  document.querySelector('#author').value = '';
 
   books.push(newBook);
 
