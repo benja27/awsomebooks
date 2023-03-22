@@ -5,14 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css'>  
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="./css/styles.css">
   <title>Document</title>
 </head>
-<body>
-  <section class="col-6 mx-auto py-5 mt-5 " >
-    <h1>Awesome books</h1>
+<body class="chec">
+  <section class="col-6 mx-auto py-5 mt-5" >
+    <h1 class="text-center" >All Awesome books</h1>
     
-    <article class="bookListCont pt-3 check">
+    <article class="bookListCont border border-dark border-4 ">
       
 
 
@@ -20,10 +20,12 @@
     
     
   
-    <form action="" id="form" class="flex d-flex flex-column mx-auto align-items-start pt-3" >
-       <input type="text" name="" id="title" placeholder="Title" > 
-       <input type="text" name="" id="author" placeholder="Author" >
-       <input type="submit" value="Add" id="submit" class="p-1 px-2">
+    <form action="" id="form" class="flex d-flex flex-column mx-auto align-items-center pt-3 col-8" >
+       <hr class="col-5" > 
+      <h4 class="text-center mx-auto" >Add a new book</h4> 
+      <input type="text" name="" class="w-100" id="title" placeholder="Title" required > 
+      <input type="text" name="" class="w-100" id="author" placeholder="Author"  required>
+      <input type="submit" value="Add" id="submit" class="p-1 px-2 align-self-end">
     </form>
 
     <div class="alert text-center fs-2 fw-bold" >

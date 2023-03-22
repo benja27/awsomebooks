@@ -5,5 +5,15 @@
 
 .check,
 .check * {
-  border: 2px solid block;
+  border: 2px solid black;
+}
+
+.book{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.book:nth-child(odd){
+  background-color: #dddddd;
 }
