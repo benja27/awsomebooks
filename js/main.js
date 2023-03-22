@@ -32,6 +32,8 @@ class MainBooks {
     this.collection.push({ title, author });
     localStorage.setItem('collection', JSON.stringify(this.collection));
     this.displayBooks();
+    this.title.value = '';
+    this.author.value = '';
   }
 
   displayBooks() {
