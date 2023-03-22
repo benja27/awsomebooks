@@ -38,6 +38,8 @@
 
 **[Awsome Books]** is a practice about manipulating DOM and using objects to store data, also preserve data in local storage
 
+In this second assignment we refactored objects to classes. 
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -48,13 +50,13 @@
     <li><a href="https://reactjs.org/">Html</a></li>
   </ul>
   <ul>
-    <li><a href="https://reactjs.org/">JS</a></li>
+    <li><a href="https://reactjs.org/">Classes</a></li>
   </ul>
   <ul>
     <li><a href="https://reactjs.org/">Flex-box</a></li>
   </ul>
   <ul>
-    <li><a href="https://reactjs.org/">Grid</a></li>
+    <li><a href="https://reactjs.org/">DOM</a></li>
   </ul>
 </details>
 
