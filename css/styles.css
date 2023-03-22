@@ -9,11 +9,31 @@
 }
 
 .book{
+  margin-bottom: 5px;
   width: 100%;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .book:nth-child(odd){
   background-color: #dddddd;
+}
+
+.remove {
+  margin: auto 0 auto 0;
+  padding: 2px;
+  font-family: 'sans-serif';
+  font-weight: 100;
+  width: 70px;
+}
+
+.bookListCont {
+  border: 3px solid black;
+  width: 100%;
+  height: auto;
+}
+
+.input-txt {
+  padding-left: 5px;
 }

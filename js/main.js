@@ -71,7 +71,7 @@ class mainBooks{
       const div = document.createElement('div');
       div.className='book'        
       let textContent = document.createElement('p')
-      textContent.className = "fs-bold m-0"
+      textContent.className = "fs-bold m-0 input-txt"
       textContent.textContent = `${element.title} by ${element.author}`
       let button = document.createElement('button')
       button.textContent= 'remove'
