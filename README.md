@@ -186,9 +186,9 @@ Example:
 
 👤 **Fredo st Fleur**
 
-- GitHub: [@githubhandle](https://github.com/benja27)
-- Twitter: [@twitterhandle](https://twitter.com/@rksne123)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mariano-benjamin-mendez-garcia-a50856177)
+- GitHub: [@fredo509](https://github.com/fredo509)
+- Twitter: [@fredo_st_fleur](https://twitter.com/Fredo_st_fleur?t=OEPwMJjspBTEnTevArv0HA&s=09)
+- LinkedIn: [Fredo st fleur](https://www.linkedin.com/in/fredo-st-fleur-0b41a122a)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
